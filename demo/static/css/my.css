@@ -1,0 +1,19 @@
+.footer{
+	text-align: center;
+}
+
+.search{
+	margin-left: 26%;
+	margin-bottom: 30px;
+}
+
+.text{
+	margin-top: 40px;
+	border:solid 1px; 
+	border-radius:5px; 
+	resize:none;
+}
+
+.mini_canvas{
+	width: 550px;
+}
